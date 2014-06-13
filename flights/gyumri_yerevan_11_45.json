@@ -1,0 +1,116 @@
+{
+	"from": "Gyumri",
+	"to": "Yerevan",
+	"stations": [
+		{
+			"name": "Gyumri",
+			"arrive": "--:--",
+			"departure": "11:45"
+		},
+		{
+			"name": "Bayandur",
+			"arrive": "11:57",
+			"departure": "11:58"
+		},
+		{
+			"name": "Shirakavan",
+			"arrive": "12:03",
+			"departure": "12:04"
+		},
+		{
+			"name": "Isahakyan",
+			"arrive": "12:06",
+			"departure": "12:07"
+		},
+		{
+			"name": "Aghin",
+			"arrive": "12:09",
+			"departure": "12:10"
+		},
+		{
+			"name": "Jrapi",
+			"arrive": "12:17",
+			"departure": "12:18"
+		},
+		{
+			"name": "Bagravan",
+			"arrive": "12:32",
+			"departure": "12:33"
+		},
+		{
+			"name": "Ani",
+			"arrive": "12:36",
+			"departure": "12:37"
+		},
+		{
+			"name": "Aragats",
+			"arrive": "12:59",
+			"departure": "13:00"
+		},
+		{
+			"name": "Arteni",
+			"arrive": "13:08",
+			"departure": "13:09"
+		},
+		{
+			"name": "Qarakert",
+			"arrive": "13:17",
+			"departure": "13:18"
+		},
+		{
+			"name": "Dalarik",
+			"arrive": "13:27",
+			"departure": "13:30"
+		},
+		{
+			"name": "Arax",
+			"arrive": "13:39",
+			"departure": "13:40"
+		},
+		{
+			"name": "Armavir",
+			"arrive": "13:51",
+			"departure": "13:54"
+		},
+		{
+			"name": "Sovetakan",
+			"arrive": "14:04",
+			"departure": "14:05"
+		},
+		{
+			"name": "Artashar",
+			"arrive": "14:08",
+			"departure": "14:09"
+		},
+		{
+			"name": "Ejmiatsin",
+			"arrive": "14:15",
+			"departure": "14:16"
+		},
+		{
+			"name": "Haykashen",
+			"arrive": "14:20",
+			"departure": "14:21"
+		},
+		{
+			"name": "Sis",
+			"arrive": "14:26",
+			"departure": "14:27"
+		},
+		{
+			"name": "Masis",
+			"arrive": "14:29",
+			"departure": "14:31"
+		},
+		{
+			"name": "Noragavit",
+			"arrive": "14:37",
+			"departure": "14:38"
+		},
+		{
+			"name": "Yerevan",
+			"arrive": "14:46",
+			"departure": "--:--"
+		}
+	]
+}

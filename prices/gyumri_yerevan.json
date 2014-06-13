@@ -1,0 +1,2050 @@
+{
+	"prices": [
+	{
+		"from": "Gyumri",
+			"list": [
+			{
+				"to": "Gyumri",
+				"price": "0"
+			},
+			{
+				"to": "Bayandur",
+				"price": "300"
+			},
+			{
+				"to": "Shirakavan",
+				"price": "300"
+			},
+			{
+				"to": "Isahakyan",
+				"price": "300"
+			},
+			{
+				"to": "Aghin",
+				"price": "300"
+			},
+			{
+				"to": "Jrapi",
+				"price": "300"
+			},
+			{
+				"to": "Bagravan",
+				"price": "300"
+			},
+			{
+				"to": "Ani",
+				"price": "300"
+			},
+			{
+				"to": "Aragats",
+				"price": "600"
+			},
+			{
+				"to": "Arteni",
+				"price": "600"
+			},
+			{
+				"to": "Qarakert",
+				"price": "600"
+			},
+			{
+				"to": "Dalarik",
+				"price": "600"
+			},
+			{
+				"to": "Arax",
+				"price": "600"
+			},
+			{
+				"to": "Armavir",
+				"price": "1000"
+			},
+			{
+				"to": "Sovetakan",
+				"price": "1000"
+			},
+			{
+				"to": "Artashar",
+				"price": "1000"
+			},
+			{
+				"to": "Ejmiatsin",
+				"price": "1000"
+			},
+			{
+				"to": "Haykashen",
+				"price": "1000"
+			},
+			{
+				"to": "Sis",
+				"price": "1000"
+			},
+			{
+				"to": "Masis",
+				"price": "1000"
+			},
+			{
+				"to": "Noragavit",
+				"price": "1000"
+			},
+			{
+				"to": "Yerevan",
+				"price": "1000"
+			}
+		]
+	},
+	{
+		"from": "Bayandur",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "300"
+		},
+		{
+			"to": "Bayandur",
+			"price": "0"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "300"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "300"
+		},
+		{
+			"to": "Aghin",
+			"price": "300"
+		},
+		{
+			"to": "Jrapi",
+			"price": "300"
+		},
+		{
+			"to": "Bagravan",
+			"price": "300"
+		},
+		{
+			"to": "Ani",
+			"price": "300"
+		},
+		{
+			"to": "Aragats",
+			"price": "600"
+		},
+		{
+			"to": "Arteni",
+			"price": "600"
+		},
+		{
+			"to": "Qarakert",
+			"price": "600"
+		},
+		{
+			"to": "Dalarik",
+			"price": "600"
+		},
+		{
+			"to": "Arax",
+			"price": "600"
+		},
+		{
+			"to": "Armavir",
+			"price": "600"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "1000"
+		},
+		{
+			"to": "Artashar",
+			"price": "1000"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "1000"
+		},
+		{
+			"to": "Haykashen",
+			"price": "1000"
+		},
+		{
+			"to": "Sis",
+			"price": "1000"
+		},
+		{
+			"to": "Masis",
+			"price": "1000"
+		},
+		{
+			"to": "Noragavit",
+			"price": "1000"
+		},
+		{
+			"to": "Yerevan",
+			"price": "1000"
+		}
+		]
+	},
+	{
+		"from": "Shirakavan",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "300"
+		},
+		{
+			"to": "Bayandur",
+			"price": "300"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "0"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "300"
+		},
+		{
+			"to": "Aghin",
+			"price": "300"
+		},
+		{
+			"to": "Jrapi",
+			"price": "300"
+		},
+		{
+			"to": "Bagravan",
+			"price": "300"
+		},
+		{
+			"to": "Ani",
+			"price": "300"
+		},
+		{
+			"to": "Aragats",
+			"price": "300"
+		},
+		{
+			"to": "Arteni",
+			"price": "600"
+		},
+		{
+			"to": "Qarakert",
+			"price": "600"
+		},
+		{
+			"to": "Dalarik",
+			"price": "600"
+		},
+		{
+			"to": "Arax",
+			"price": "600"
+		},
+		{
+			"to": "Armavir",
+			"price": "600"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "600"
+		},
+		{
+			"to": "Artashar",
+			"price": "1000"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "1000"
+		},
+		{
+			"to": "Haykashen",
+			"price": "1000"
+		},
+		{
+			"to": "Sis",
+			"price": "1000"
+		},
+		{
+			"to": "Masis",
+			"price": "1000"
+		},
+		{
+			"to": "Noragavit",
+			"price": "1000"
+		},
+		{
+			"to": "Yerevan",
+			"price": "1000"
+		}
+		]
+	},
+	{
+		"from": "Isahakyan",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "300"
+		},
+		{
+			"to": "Bayandur",
+			"price": "300"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "300"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "0"
+		},
+		{
+			"to": "Aghin",
+			"price": "300"
+		},
+		{
+			"to": "Jrapi",
+			"price": "300"
+		},
+		{
+			"to": "Bagravan",
+			"price": "300"
+		},
+		{
+			"to": "Ani",
+			"price": "300"
+		},
+		{
+			"to": "Aragats",
+			"price": "300"
+		},
+		{
+			"to": "Arteni",
+			"price": "600"
+		},
+		{
+			"to": "Qarakert",
+			"price": "600"
+		},
+		{
+			"to": "Dalarik",
+			"price": "600"
+		},
+		{
+			"to": "Arax",
+			"price": "600"
+		},
+		{
+			"to": "Armavir",
+			"price": "600"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "600"
+		},
+		{
+			"to": "Artashar",
+			"price": "600"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "1000"
+		},
+		{
+			"to": "Haykashen",
+			"price": "1000"
+		},
+		{
+			"to": "Sis",
+			"price": "1000"
+		},
+		{
+			"to": "Masis",
+			"price": "1000"
+		},
+		{
+			"to": "Noragavit",
+			"price": "1000"
+		},
+		{
+			"to": "Yerevan",
+			"price": "1000"
+		}
+		]
+	},
+	{
+		"from": "Aghin",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "300"
+		},
+		{
+			"to": "Bayandur",
+			"price": "300"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "300"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "300"
+		},
+		{
+			"to": "Aghin",
+			"price": "0"
+		},
+		{
+			"to": "Jrapi",
+			"price": "300"
+		},
+		{
+			"to": "Bagravan",
+			"price": "300"
+		},
+		{
+			"to": "Ani",
+			"price": "300"
+		},
+		{
+			"to": "Aragats",
+			"price": "300"
+		},
+		{
+			"to": "Arteni",
+			"price": "300"
+		},
+		{
+			"to": "Qarakert",
+			"price": "600"
+		},
+		{
+			"to": "Dalarik",
+			"price": "600"
+		},
+		{
+			"to": "Arax",
+			"price": "600"
+		},
+		{
+			"to": "Armavir",
+			"price": "600"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "600"
+		},
+		{
+			"to": "Artashar",
+			"price": "600"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "1000"
+		},
+		{
+			"to": "Haykashen",
+			"price": "1000"
+		},
+		{
+			"to": "Sis",
+			"price": "1000"
+		},
+		{
+			"to": "Masis",
+			"price": "1000"
+		},
+		{
+			"to": "Noragavit",
+			"price": "1000"
+		},
+		{
+			"to": "Yerevan",
+			"price": "1000"
+		}
+		]
+	},
+	{
+		"from": "Jrapi",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "300"
+		},
+		{
+			"to": "Bayandur",
+			"price": "300"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "300"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "300"
+		},
+		{
+			"to": "Aghin",
+			"price": "300"
+		},
+		{
+			"to": "Jrapi",
+			"price": "0"
+		},
+		{
+			"to": "Bagravan",
+			"price": "300"
+		},
+		{
+			"to": "Ani",
+			"price": "300"
+		},
+		{
+			"to": "Aragats",
+			"price": "300"
+		},
+		{
+			"to": "Arteni",
+			"price": "300"
+		},
+		{
+			"to": "Qarakert",
+			"price": "600"
+		},
+		{
+			"to": "Dalarik",
+			"price": "600"
+		},
+		{
+			"to": "Arax",
+			"price": "600"
+		},
+		{
+			"to": "Armavir",
+			"price": "600"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "600"
+		},
+		{
+			"to": "Artashar",
+			"price": "600"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "600"
+		},
+		{
+			"to": "Haykashen",
+			"price": "1000"
+		},
+		{
+			"to": "Sis",
+			"price": "1000"
+		},
+		{
+			"to": "Masis",
+			"price": "1000"
+		},
+		{
+			"to": "Noragavit",
+			"price": "1000"
+		},
+		{
+			"to": "Yerevan",
+			"price": "1000"
+		}
+		]
+	},
+	{
+		"from": "Bagravan",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "300"
+		},
+		{
+			"to": "Bayandur",
+			"price": "300"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "300"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "300"
+		},
+		{
+			"to": "Aghin",
+			"price": "300"
+		},
+		{
+			"to": "Jrapi",
+			"price": "300"
+		},
+		{
+			"to": "Bagravan",
+			"price": "0"
+		},
+		{
+			"to": "Ani",
+			"price": "300"
+		},
+		{
+			"to": "Aragats",
+			"price": "300"
+		},
+		{
+			"to": "Arteni",
+			"price": "300"
+		},
+		{
+			"to": "Qarakert",
+			"price": "300"
+		},
+		{
+			"to": "Dalarik",
+			"price": "600"
+		},
+		{
+			"to": "Arax",
+			"price": "600"
+		},
+		{
+			"to": "Armavir",
+			"price": "600"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "600"
+		},
+		{
+			"to": "Artashar",
+			"price": "600"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "600"
+		},
+		{
+			"to": "Haykashen",
+			"price": "600"
+		},
+		{
+			"to": "Sis",
+			"price": "600"
+		},
+		{
+			"to": "Masis",
+			"price": "1000"
+		},
+		{
+			"to": "Noragavit",
+			"price": "1000"
+		},
+		{
+			"to": "Yerevan",
+			"price": "1000"
+		}
+		]
+	},
+	{
+		"from": "Ani",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "300"
+		},
+		{
+			"to": "Bayandur",
+			"price": "300"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "300"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "300"
+		},
+		{
+			"to": "Aghin",
+			"price": "300"
+		},
+		{
+			"to": "Jrapi",
+			"price": "300"
+		},
+		{
+			"to": "Bagravan",
+			"price": "300"
+		},
+		{
+			"to": "Ani",
+			"price": "0"
+		},
+		{
+			"to": "Aragats",
+			"price": "300"
+		},
+		{
+			"to": "Arteni",
+			"price": "300"
+		},
+		{
+			"to": "Qarakert",
+			"price": "300"
+		},
+		{
+			"to": "Dalarik",
+			"price": "300"
+		},
+		{
+			"to": "Arax",
+			"price": "600"
+		},
+		{
+			"to": "Armavir",
+			"price": "600"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "600"
+		},
+		{
+			"to": "Artashar",
+			"price": "600"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "600"
+		},
+		{
+			"to": "Haykashen",
+			"price": "600"
+		},
+		{
+			"to": "Sis",
+			"price": "600"
+		},
+		{
+			"to": "Masis",
+			"price": "600"
+		},
+		{
+			"to": "Noragavit",
+			"price": "1000"
+		},
+		{
+			"to": "Yerevan",
+			"price": "1000"
+		}
+		]
+	},
+	{
+		"from": "Aragats",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "600"
+		},
+		{
+			"to": "Bayandur",
+			"price": "600"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "300"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "300"
+		},
+		{
+			"to": "Aghin",
+			"price": "300"
+		},
+		{
+			"to": "Jrapi",
+			"price": "300"
+		},
+		{
+			"to": "Bagravan",
+			"price": "300"
+		},
+		{
+			"to": "Ani",
+			"price": "300"
+		},
+		{
+			"to": "Aragats",
+			"price": "0"
+		},
+		{
+			"to": "Arteni",
+			"price": "300"
+		},
+		{
+			"to": "Qarakert",
+			"price": "300"
+		},
+		{
+			"to": "Dalarik",
+			"price": "300"
+		},
+		{
+			"to": "Arax",
+			"price": "300"
+		},
+		{
+			"to": "Armavir",
+			"price": "300"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "600"
+		},
+		{
+			"to": "Artashar",
+			"price": "600"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "600"
+		},
+		{
+			"to": "Haykashen",
+			"price": "600"
+		},
+		{
+			"to": "Sis",
+			"price": "600"
+		},
+		{
+			"to": "Masis",
+			"price": "600"
+		},
+		{
+			"to": "Noragavit",
+			"price": "600"
+		},
+		{
+			"to": "Yerevan",
+			"price": "600"
+		}
+		]
+	},
+	{
+		"from": "Arteni",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "600"
+		},
+		{
+			"to": "Bayandur",
+			"price": "600"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "600"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "600"
+		},
+		{
+			"to": "Aghin",
+			"price": "300"
+		},
+		{
+			"to": "Jrapi",
+			"price": "300"
+		},
+		{
+			"to": "Bagravan",
+			"price": "300"
+		},
+		{
+			"to": "Ani",
+			"price": "300"
+		},
+		{
+			"to": "Aragats",
+			"price": "300"
+		},
+		{
+			"to": "Arteni",
+			"price": "0"
+		},
+		{
+			"to": "Qarakert",
+			"price": "300"
+		},
+		{
+			"to": "Dalarik",
+			"price": "300"
+		},
+		{
+			"to": "Arax",
+			"price": "300"
+		},
+		{
+			"to": "Armavir",
+			"price": "300"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "300"
+		},
+		{
+			"to": "Artashar",
+			"price": "600"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "600"
+		},
+		{
+			"to": "Haykashen",
+			"price": "600"
+		},
+		{
+			"to": "Sis",
+			"price": "600"
+		},
+		{
+			"to": "Masis",
+			"price": "600"
+		},
+		{
+			"to": "Noragavit",
+			"price": "600"
+		},
+		{
+			"to": "Yerevan",
+			"price": "600"
+		}
+		]
+	},
+	{
+		"from": "Qarakert",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "600"
+		},
+		{
+			"to": "Bayandur",
+			"price": "600"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "600"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "600"
+		},
+		{
+			"to": "Aghin",
+			"price": "600"
+		},
+		{
+			"to": "Jrapi",
+			"price": "600"
+		},
+		{
+			"to": "Bagravan",
+			"price": "300"
+		},
+		{
+			"to": "Ani",
+			"price": "300"
+		},
+		{
+			"to": "Aragats",
+			"price": "300"
+		},
+		{
+			"to": "Arteni",
+			"price": "300"
+		},
+		{
+			"to": "Qarakert",
+			"price": "0"
+		},
+		{
+			"to": "Dalarik",
+			"price": "300"
+		},
+		{
+			"to": "Arax",
+			"price": "300"
+		},
+		{
+			"to": "Armavir",
+			"price": "300"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "300"
+		},
+		{
+			"to": "Artashar",
+			"price": "300"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "300"
+		},
+		{
+			"to": "Haykashen",
+			"price": "600"
+		},
+		{
+			"to": "Sis",
+			"price": "600"
+		},
+		{
+			"to": "Masis",
+			"price": "600"
+		},
+		{
+			"to": "Noragavit",
+			"price": "600"
+		},
+		{
+			"to": "Yerevan",
+			"price": "600"
+		}
+		]
+	},
+	{
+		"from": "Dalarik",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "600"
+		},
+		{
+			"to": "Bayandur",
+			"price": "600"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "600"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "600"
+		},
+		{
+			"to": "Aghin",
+			"price": "600"
+		},
+		{
+			"to": "Jrapi",
+			"price": "600"
+		},
+		{
+			"to": "Bagravan",
+			"price": "300"
+		},
+		{
+			"to": "Ani",
+			"price": "300"
+		},
+		{
+			"to": "Aragats",
+			"price": "300"
+		},
+		{
+			"to": "Arteni",
+			"price": "300"
+		},
+		{
+			"to": "Qarakert",
+			"price": "300"
+		},
+		{
+			"to": "Dalarik",
+			"price": "0"
+		},
+		{
+			"to": "Arax",
+			"price": "300"
+		},
+		{
+			"to": "Armavir",
+			"price": "300"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "300"
+		},
+		{
+			"to": "Artashar",
+			"price": "300"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "300"
+		},
+		{
+			"to": "Haykashen",
+			"price": "300"
+		},
+		{
+			"to": "Sis",
+			"price": "300"
+		},
+		{
+			"to": "Masis",
+			"price": "600"
+		},
+		{
+			"to": "Noragavit",
+			"price": "600"
+		},
+		{
+			"to": "Yerevan",
+			"price": "600"
+		}
+		]
+	},
+	{
+		"from": "Arax",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "600"
+		},
+		{
+			"to": "Bayandur",
+			"price": "600"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "600"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "600"
+		},
+		{
+			"to": "Aghin",
+			"price": "600"
+		},
+		{
+			"to": "Jrapi",
+			"price": "600"
+		},
+		{
+			"to": "Bagravan",
+			"price": "600"
+		},
+		{
+			"to": "Ani",
+			"price": "600"
+		},
+		{
+			"to": "Aragats",
+			"price": "300"
+		},
+		{
+			"to": "Arteni",
+			"price": "300"
+		},
+		{
+			"to": "Qarakert",
+			"price": "300"
+		},
+		{
+			"to": "Dalarik",
+			"price": "300"
+		},
+		{
+			"to": "Arax",
+			"price": "0"
+		},
+		{
+			"to": "Armavir",
+			"price": "300"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "300"
+		},
+		{
+			"to": "Artashar",
+			"price": "300"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "300"
+		},
+		{
+			"to": "Haykashen",
+			"price": "300"
+		},
+		{
+			"to": "Sis",
+			"price": "300"
+		},
+		{
+			"to": "Masis",
+			"price": "300"
+		},
+		{
+			"to": "Noragavit",
+			"price": "600"
+		},
+		{
+			"to": "Yerevan",
+			"price": "600"
+		}
+		]
+	},
+	{
+		"from": "Armavir",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "1000"
+		},
+		{
+			"to": "Bayandur",
+			"price": "600"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "600"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "600"
+		},
+		{
+			"to": "Aghin",
+			"price": "600"
+		},
+		{
+			"to": "Jrapi",
+			"price": "600"
+		},
+		{
+			"to": "Bagravan",
+			"price": "600"
+		},
+		{
+			"to": "Ani",
+			"price": "600"
+		},
+		{
+			"to": "Aragats",
+			"price": "300"
+		},
+		{
+			"to": "Arteni",
+			"price": "300"
+		},
+		{
+			"to": "Qarakert",
+			"price": "300"
+		},
+		{
+			"to": "Dalarik",
+			"price": "300"
+		},
+		{
+			"to": "Arax",
+			"price": "300"
+		},
+		{
+			"to": "Armavir",
+			"price": "0"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "300"
+		},
+		{
+			"to": "Artashar",
+			"price": "300"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "300"
+		},
+		{
+			"to": "Haykashen",
+			"price": "300"
+		},
+		{
+			"to": "Sis",
+			"price": "300"
+		},
+		{
+			"to": "Masis",
+			"price": "300"
+		},
+		{
+			"to": "Noragavit",
+			"price": "300"
+		},
+		{
+			"to": "Yerevan",
+			"price": "300"
+		}
+		]
+	},
+	{
+		"from": "Sovetakan",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "1000"
+		},
+		{
+			"to": "Bayandur",
+			"price": "1000"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "600"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "600"
+		},
+		{
+			"to": "Aghin",
+			"price": "600"
+		},
+		{
+			"to": "Jrapi",
+			"price": "600"
+		},
+		{
+			"to": "Bagravan",
+			"price": "600"
+		},
+		{
+			"to": "Ani",
+			"price": "600"
+		},
+		{
+			"to": "Aragats",
+			"price": "600"
+		},
+		{
+			"to": "Arteni",
+			"price": "300"
+		},
+		{
+			"to": "Qarakert",
+			"price": "300"
+		},
+		{
+			"to": "Dalarik",
+			"price": "300"
+		},
+		{
+			"to": "Arax",
+			"price": "300"
+		},
+		{
+			"to": "Armavir",
+			"price": "300"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "0"
+		},
+		{
+			"to": "Artashar",
+			"price": "300"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "300"
+		},
+		{
+			"to": "Haykashen",
+			"price": "300"
+		},
+		{
+			"to": "Sis",
+			"price": "300"
+		},
+		{
+			"to": "Masis",
+			"price": "300"
+		},
+		{
+			"to": "Noragavit",
+			"price": "300"
+		},
+		{
+			"to": "Yerevan",
+			"price": "300"
+		}
+		]
+	},
+	{
+		"from": "Artashar",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "1000"
+		},
+		{
+			"to": "Bayandur",
+			"price": "1000"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "1000"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "600"
+		},
+		{
+			"to": "Aghin",
+			"price": "600"
+		},
+		{
+			"to": "Jrapi",
+			"price": "600"
+		},
+		{
+			"to": "Bagravan",
+			"price": "600"
+		},
+		{
+			"to": "Ani",
+			"price": "600"
+		},
+		{
+			"to": "Aragats",
+			"price": "600"
+		},
+		{
+			"to": "Arteni",
+			"price": "300"
+		},
+		{
+			"to": "Qarakert",
+			"price": "300"
+		},
+		{
+			"to": "Dalarik",
+			"price": "300"
+		},
+		{
+			"to": "Arax",
+			"price": "300"
+		},
+		{
+			"to": "Armavir",
+			"price": "300"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "300"
+		},
+		{
+			"to": "Artashar",
+			"price": "0"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "300"
+		},
+		{
+			"to": "Haykashen",
+			"price": "300"
+		},
+		{
+			"to": "Sis",
+			"price": "300"
+		},
+		{
+			"to": "Masis",
+			"price": "300"
+		},
+		{
+			"to": "Noragavit",
+			"price": "300"
+		},
+		{
+			"to": "Yerevan",
+			"price": "300"
+		}
+		]
+	},
+	{
+		"from": "Ejmiatsin",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "1000"
+		},
+		{
+			"to": "Bayandur",
+			"price": "1000"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "1000"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "600"
+		},
+		{
+			"to": "Aghin",
+			"price": "600"
+		},
+		{
+			"to": "Jrapi",
+			"price": "600"
+		},
+		{
+			"to": "Bagravan",
+			"price": "600"
+		},
+		{
+			"to": "Ani",
+			"price": "600"
+		},
+		{
+			"to": "Aragats",
+			"price": "600"
+		},
+		{
+			"to": "Arteni",
+			"price": "300"
+		},
+		{
+			"to": "Qarakert",
+			"price": "300"
+		},
+		{
+			"to": "Dalarik",
+			"price": "300"
+		},
+		{
+			"to": "Arax",
+			"price": "300"
+		},
+		{
+			"to": "Armavir",
+			"price": "300"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "300"
+		},
+		{
+			"to": "Artashar",
+			"price": "0"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "300"
+		},
+		{
+			"to": "Haykashen",
+			"price": "300"
+		},
+		{
+			"to": "Sis",
+			"price": "300"
+		},
+		{
+			"to": "Masis",
+			"price": "300"
+		},
+		{
+			"to": "Noragavit",
+			"price": "300"
+		},
+		{
+			"to": "Yerevan",
+			"price": "300"
+		}
+		]
+	},
+	{
+		"from": "Haykashen",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "1000"
+		},
+		{
+			"to": "Bayandur",
+			"price": "1000"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "1000"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "1000"
+		},
+		{
+			"to": "Aghin",
+			"price": "1000"
+		},
+		{
+			"to": "Jrapi",
+			"price": "1000"
+		},
+		{
+			"to": "Bagravan",
+			"price": "600"
+		},
+		{
+			"to": "Ani",
+			"price": "600"
+		},
+		{
+			"to": "Aragats",
+			"price": "600"
+		},
+		{
+			"to": "Arteni",
+			"price": "600"
+		},
+		{
+			"to": "Qarakert",
+			"price": "600"
+		},
+		{
+			"to": "Dalarik",
+			"price": "300"
+		},
+		{
+			"to": "Arax",
+			"price": "300"
+		},
+		{
+			"to": "Armavir",
+			"price": "300"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "300"
+		},
+		{
+			"to": "Artashar",
+			"price": "300"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "300"
+		},
+		{
+			"to": "Haykashen",
+			"price": "0"
+		},
+		{
+			"to": "Sis",
+			"price": "300"
+		},
+		{
+			"to": "Masis",
+			"price": "300"
+		},
+		{
+			"to": "Noragavit",
+			"price": "300"
+		},
+		{
+			"to": "Yerevan",
+			"price": "300"
+		}
+		]
+	},
+	{
+		"from": "Sis",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "1000"
+		},
+		{
+			"to": "Bayandur",
+			"price": "1000"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "1000"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "1000"
+		},
+		{
+			"to": "Aghin",
+			"price": "1000"
+		},
+		{
+			"to": "Jrapi",
+			"price": "1000"
+		},
+		{
+			"to": "Bagravan",
+			"price": "600"
+		},
+		{
+			"to": "Ani",
+			"price": "600"
+		},
+		{
+			"to": "Aragats",
+			"price": "600"
+		},
+		{
+			"to": "Arteni",
+			"price": "600"
+		},
+		{
+			"to": "Qarakert",
+			"price": "600"
+		},
+		{
+			"to": "Dalarik",
+			"price": "300"
+		},
+		{
+			"to": "Arax",
+			"price": "300"
+		},
+		{
+			"to": "Armavir",
+			"price": "300"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "300"
+		},
+		{
+			"to": "Artashar",
+			"price": "300"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "300"
+		},
+		{
+			"to": "Haykashen",
+			"price": "300"
+		},
+		{
+			"to": "Sis",
+			"price": "0"
+		},
+		{
+			"to": "Masis",
+			"price": "300"
+		},
+		{
+			"to": "Noragavit",
+			"price": "300"
+		},
+		{
+			"to": "Yerevan",
+			"price": "300"
+		}
+		]
+	},
+	{
+		"from": "Masis",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "1000"
+		},
+		{
+			"to": "Bayandur",
+			"price": "1000"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "1000"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "1000"
+		},
+		{
+			"to": "Aghin",
+			"price": "1000"
+		},
+		{
+			"to": "Jrapi",
+			"price": "1000"
+		},
+		{
+			"to": "Bagravan",
+			"price": "600"
+		},
+		{
+			"to": "Ani",
+			"price": "600"
+		},
+		{
+			"to": "Aragats",
+			"price": "600"
+		},
+		{
+			"to": "Arteni",
+			"price": "600"
+		},
+		{
+			"to": "Qarakert",
+			"price": "600"
+		},
+		{
+			"to": "Dalarik",
+			"price": "600"
+		},
+		{
+			"to": "Arax",
+			"price": "300"
+		},
+		{
+			"to": "Armavir",
+			"price": "300"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "300"
+		},
+		{
+			"to": "Artashar",
+			"price": "300"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "300"
+		},
+		{
+			"to": "Haykashen",
+			"price": "300"
+		},
+		{
+			"to": "Sis",
+			"price": "300"
+		},
+		{
+			"to": "Masis",
+			"price": "0"
+		},
+		{
+			"to": "Noragavit",
+			"price": "300"
+		},
+		{
+			"to": "Yerevan",
+			"price": "300"
+		}
+		]
+	},
+	{
+		"from": "Noragavit",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "1000"
+		},
+		{
+			"to": "Bayandur",
+			"price": "1000"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "1000"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "1000"
+		},
+		{
+			"to": "Aghin",
+			"price": "1000"
+		},
+		{
+			"to": "Jrapi",
+			"price": "1000"
+		},
+		{
+			"to": "Bagravan",
+			"price": "1000"
+		},
+		{
+			"to": "Ani",
+			"price": "1000"
+		},
+		{
+			"to": "Aragats",
+			"price": "600"
+		},
+		{
+			"to": "Arteni",
+			"price": "600"
+		},
+		{
+			"to": "Qarakert",
+			"price": "600"
+		},
+		{
+			"to": "Dalarik",
+			"price": "600"
+		},
+		{
+			"to": "Arax",
+			"price": "600"
+		},
+		{
+			"to": "Armavir",
+			"price": "300"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "300"
+		},
+		{
+			"to": "Artashar",
+			"price": "300"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "300"
+		},
+		{
+			"to": "Haykashen",
+			"price": "300"
+		},
+		{
+			"to": "Sis",
+			"price": "300"
+		},
+		{
+			"to": "Masis",
+			"price": "300"
+		},
+		{
+			"to": "Noragavit",
+			"price": "0"
+		},
+		{
+			"to": "Yerevan",
+			"price": "300"
+		}
+		]
+	},
+	{
+		"from": "Yerevan",
+		"list": [
+		{
+			"to": "Gyumri",
+			"price": "1000"
+		},
+		{
+			"to": "Bayandur",
+			"price": "1000"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "1000"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "1000"
+		},
+		{
+			"to": "Aghin",
+			"price": "1000"
+		},
+		{
+			"to": "Jrapi",
+			"price": "1000"
+		},
+		{
+			"to": "Bagravan",
+			"price": "1000"
+		},
+		{
+			"to": "Ani",
+			"price": "1000"
+		},
+		{
+			"to": "Aragats",
+			"price": "600"
+		},
+		{
+			"to": "Arteni",
+			"price": "600"
+		},
+		{
+			"to": "Qarakert",
+			"price": "600"
+		},
+		{
+			"to": "Dalarik",
+			"price": "600"
+		},
+		{
+			"to": "Arax",
+			"price": "600"
+		},
+		{
+			"to": "Armavir",
+			"price": "300"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "300"
+		},
+		{
+			"to": "Artashar",
+			"price": "300"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "300"
+		},
+		{
+			"to": "Haykashen",
+			"price": "300"
+		},
+		{
+			"to": "Sis",
+			"price": "300"
+		},
+		{
+			"to": "Masis",
+			"price": "300"
+		},
+		{
+			"to": "Noragavit",
+			"price": "300"
+		},
+		{
+			"to": "Yerevan",
+			"price": "0"
+		}
+		]
+	}
+	]
+}
