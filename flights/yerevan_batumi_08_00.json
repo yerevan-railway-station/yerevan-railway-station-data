@@ -1,6 +1,6 @@
 {
 	"from": "Yerevan",
-	"to": "Gyumri",
+	"to": "Batumi",
 	"stations": [
 		{
 			"name": "Yerevan",
@@ -108,7 +108,7 @@
 			"departure": "10:53"
 		},
 		{
-			"name": "Gyumri",
+			"name": "Batumi",
 			"arrive": "11:05",
 			"departure": "--:--"
 		}
