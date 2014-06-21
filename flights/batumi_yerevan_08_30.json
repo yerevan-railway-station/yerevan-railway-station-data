@@ -1,9 +1,9 @@
 {
-	"from": "Gyumri",
+	"from": "Batumi",
 	"to": "Yerevan",
 	"stations": [
 		{
-			"name": "Gyumri",
+			"name": "Batumi",
 			"arrive": "--:--",
 			"departure": "08:30"
 		},
