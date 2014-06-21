@@ -1,0 +1,93 @@
+{
+	"from": "Qarakert",
+	"stations": [
+		{
+			"to": "Gyumri",
+			"price": "600"
+		},
+		{
+			"to": "Bayandur",
+			"price": "600"
+		},
+		{
+			"to": "Shirakavan",
+			"price": "600"
+		},
+		{
+			"to": "Isahakyan",
+			"price": "600"
+		},
+		{
+			"to": "Aghin",
+			"price": "600"
+		},
+		{
+			"to": "Jrapi",
+			"price": "600"
+		},
+		{
+			"to": "Bagravan",
+			"price": "300"
+		},
+		{
+			"to": "Ani",
+			"price": "300"
+		},
+		{
+			"to": "Aragats",
+			"price": "300"
+		},
+		{
+			"to": "Arteni",
+			"price": "300"
+		},
+		{
+			"to": "Qarakert",
+			"price": "0"
+		},
+		{
+			"to": "Dalarik",
+			"price": "300"
+		},
+		{
+			"to": "Arax",
+			"price": "300"
+		},
+		{
+			"to": "Armavir",
+			"price": "300"
+		},
+		{
+			"to": "Sovetakan",
+			"price": "300"
+		},
+		{
+			"to": "Artashar",
+			"price": "300"
+		},
+		{
+			"to": "Ejmiatsin",
+			"price": "300"
+		},
+		{
+			"to": "Haykashen",
+			"price": "600"
+		},
+		{
+			"to": "Sis",
+			"price": "600"
+		},
+		{
+			"to": "Masis",
+			"price": "600"
+		},
+		{
+			"to": "Noragavit",
+			"price": "600"
+		},
+		{
+			"to": "Yerevan",
+			"price": "600"
+		}
+	]
+}
