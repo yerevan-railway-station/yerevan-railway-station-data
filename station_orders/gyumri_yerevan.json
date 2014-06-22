@@ -1,0 +1,26 @@
+{
+	stations: [
+		gyumri,
+		bayandur,
+		shirakavan,
+		isahakyan,
+		aghin,
+		jrapi,
+		bagravan,
+		ani,
+		aragats,
+		arteni,
+		qarakert,
+		dalarik,
+		arax,
+		armavir,
+		sovetakan,
+		artashar,
+		ejmiatsin,
+		haykashen,
+		sis,
+		masis,
+		noragavit,
+		yerevan
+	]
+}
